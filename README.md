@@ -122,7 +122,7 @@ DNS分离解析配置，和通用配置差不多，只不过需要告诉服务�
 
 然后选择对应的与主服务器上一致的操作。是通用配置还是分离解析配置，需要和主服务器上保持一致。
 
-![image-20220805223416399](C:/Users/29315/AppData/Roaming/Typora/typora-user-images/image-20220805223416399.png)
+![image-20220805223416399](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/3029image-20220805223416399.png)
 
 然后后面输入与主服务器上一致的配置信息，即可完成配置。
 
