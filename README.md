@@ -74,7 +74,7 @@
 
 ![image-20220805221545258](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/3029image-20220805221545258.png)
 
-![image-20220805221627925](C:/Users/29315/AppData/Roaming/Typora/typora-user-images/image-20220805221627925.png)
+![image-20220805221627925](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/3029image-20220805221627925.png)
 
 
 
